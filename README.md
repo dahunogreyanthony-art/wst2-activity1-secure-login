@@ -1,6 +1,6 @@
 # WST2 · Activity 1 – Secure Login System
 
-**Name:** Rey Anthony Dahunog · **Section:** 4C
+**Name:** Rey Anthony E. Dahunog · **Section:** BS Info Tech 4C
 
 Registration and login system in PHP 8 + MySQL that stores passwords safely and manages sessions securely.
 
